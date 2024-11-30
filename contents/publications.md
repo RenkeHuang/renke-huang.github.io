@@ -1,0 +1,9 @@
+- **R. Huang**, C. Li and F. A. Evangelista, Leveraging small scale quantum computers with unitarily downfolded Hamiltonians. [*PRX Quantum*, 4, 020313 (2023)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.020313). (citations: 28)
+
+- N. H. Stair, **R. Huang** and F. A. Evangelista, A Multireference Quantum Krylov Algorithm for Strongly Correlated Electrons. [*J. Chem. Theory Comput.*, 16, 2236–2245 (2020)](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b01125). [arXiv](https://arxiv.org/abs/1911.05163) (citations: 183)
+
+- C. Li, S. Mao, **R. Huang** and F. A. Evangelista, Frozen Natural Orbitals for the State-Averaged Driven Similarity Renormalization Group, [*J. Chem. Theory Comput.*, 20, 4170–4181 (2024)](https://doi.org/10.1021/acs.jctc.4c00152). [arXiv:2312.07008](https://arxiv.org/abs/2312.07008).
+
+- F. A. Evangelista, C. Li, P. Verma, K. Hannon, J. B. Schriber, T. Zhang, C. Cai, S. Wang, N. He, N. H. Stair, M. Huang, **R. Huang**, J. Misiewicz, S. Li, K. Marin, Z. Zhao, and L. Burns, Forte: A suite of advanced multireference quantum chemistry methods. [*J. Chem. Phys.*, 161, 062502 (2024)](https://pubs.aip.org/aip/jcp/article-abstract/161/6/062502/3307579/Forte-A-suite-of-advanced-multireference-quantum). [arXiv:2405.10197](https://arxiv.org/abs/2405.10197). (citations: 3)
+
+- M. Jin, J. Li, **R. Huang**, Y. Zhou, L. Chung and J. Wang, Catalytic Asymmetric Trifluoromethylthiolation of Carbonyl Compounds via Diastereo- and Enantioselective Cu-Catalyzed Tandem Reaction. [*Chem. Commun.*, 54, 4581-4584 (2018)](https://pubs.rsc.org/en/Content/ArticleLanding/2018/CC/C8CC02097C#!divAbstract). (citations: 39)
